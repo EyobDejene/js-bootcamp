@@ -1,4 +1,4 @@
-// #########   EXERCISE The Sum of a Range ######### //
+// #########   EXERCISE The Locked Box ######### //
 
 //create a object
 const box = {
@@ -12,7 +12,7 @@ const box = {
     }
 };
 
-//
+// create a function with one parameter
 function withBoxUnlocked(body) {
     box.unlock();
     // try to unlock the box
